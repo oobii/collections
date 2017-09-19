@@ -36,12 +36,7 @@ var myPace = "Medium"
 if let p = paces[myPace] {
     print("Okay! I'll keep you at a \(p) minute mile pace")
 }
-//switch pace {
-//    case "Easy": print("Okay! I'll keep you at a \(paces["Easy"]) minute mile pace.")
-//    case let time = paces["Medium"]: print("Okay! I'll keep you at a \(paces["Medium"]) minute mile pace.")
-//    case "Fast": print("Okay! I'll keep you at a \(paces["Fast"]) minute mile pace.")
-//    default: break
-//}
+
 
 /*:
  
